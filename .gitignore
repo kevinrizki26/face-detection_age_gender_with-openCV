@@ -1,0 +1,32 @@
+# Model files (too large for GitHub)
+*.caffemodel
+*.pb
+*.pbtxt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+.pytest_cache/
+.coverage
+
+# Images folder (optional)
+# images/
